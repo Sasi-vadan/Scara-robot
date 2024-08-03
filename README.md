@@ -1,2 +1,2 @@
 # Scara-robot
-All the STL files of the 3d printed robotic arm are uploaded here
+All the files including STL, codes and circuit diagrams of scara robotic arm project are uploaded here
